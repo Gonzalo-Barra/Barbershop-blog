@@ -1,0 +1,14 @@
+.article {
+   font-size: $small;
+   line-height: 40px;
+   padding-top: 70px;
+   padding-bottom: 75px;
+   text-align: justify;
+
+   &__text {
+      color: $raising-black;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 3;
+   }
+}

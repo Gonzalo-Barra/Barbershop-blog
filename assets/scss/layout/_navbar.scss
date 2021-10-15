@@ -1,0 +1,13 @@
+.navbar {
+    background-color: $eerie-black;
+    padding-left: 6.25rem;
+    padding-right: 6.25rem;
+
+    &__item {
+        color: $white;
+    }
+
+    a:hover {
+        color: $fuzzy-wuzzy;
+    }
+}

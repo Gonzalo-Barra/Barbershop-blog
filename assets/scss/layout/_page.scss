@@ -1,0 +1,14 @@
+.page{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 1px solid $nickel;
+    background-color: $nickel;
+
+    .pager{
+        border-radius: 50%;
+    }
+    
+    .navigation{
+        border-radius: 60px;
+    }
+}

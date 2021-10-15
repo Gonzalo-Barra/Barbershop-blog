@@ -1,0 +1,41 @@
+.pag-bar {
+    background-color: $platinum;
+    height: 150px;
+
+    &__item {
+        padding-top: 56px;
+        font-family: $roboto;
+        font-weight: $playfair;
+    }
+
+    &__items {
+        color: $eerie-black;
+    }
+
+    &__items-next {
+        color: $eerie-black;
+        border-top-right-radius: 1rem !important;
+        border-bottom-right-radius: 1rem !important;
+    }
+
+    &__items-dis {
+        color: $nickel;
+        border-top-left-radius: 1rem !important;
+        border-bottom-left-radius: 1rem !important;
+    }
+
+    &__items-dis:hover {
+        background-color: $nickel;
+        color: $white;
+    }
+
+    &__items-next:hover {
+        background-color: $nickel;
+        color: $white;
+    }
+
+    &__items:hover {
+        background-color: $nickel;
+        color: $white;
+    }
+}

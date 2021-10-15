@@ -1,0 +1,14 @@
+//state
+.about-me {
+    &__link:link {
+        color: $spanish-pink;
+    }
+
+    &__link:hover {
+        color: $raising-black;
+    }
+
+    &__link:active {
+        color: $nickel;
+    }
+}
