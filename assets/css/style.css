@@ -9212,7 +9212,7 @@ a {
 }
 
 .hero-section {
-  background-image: "./assets/images/post-image.jpg";
+  background-image: url("../../assets/images/post-image.jpg");
   width: 100%;
   height: 62.5rem;
   background-repeat: no-repeat;
